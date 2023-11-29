@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log*
+pnpm-debug.log*
+
+# Dependency directories
+pids
+logs
+*.pid
+*.log
+
+# Optional: Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+/build
+/dist
+
+# Environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm package files
+package-lock.json
+yarn.lock
+
+# Next.js
+.next/
+
+# Jest
+coverage/
+
+# Serverless
+.serverless/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Flutter/Dart
+build/
+.dart_tool/
+.pub/
+
