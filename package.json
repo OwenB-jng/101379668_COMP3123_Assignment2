@@ -1,0 +1,14 @@
+{
+  "name": "101379668_comp3123_assignment2",
+  "version": "1.0.0",
+  "description": "assignment 1 and 2 for comp3123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gbc"
+  ],
+  "author": "owenbeattie",
+  "license": "ISC"
+}
